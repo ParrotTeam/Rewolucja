@@ -30,6 +30,6 @@ void rozprawa()
 	default:
 		cout << "Podano b³êdny numer, ponów wybór";
 		break;
-	}
+	}//helo³
 
 }
