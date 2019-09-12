@@ -32,4 +32,4 @@ void rozprawa()
 		break;
 	}
 
-}
+}nkjhnkj kj󳳳
