@@ -1,0 +1,13 @@
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\bin\Debug\CSharp_Edition.exe.config
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\bin\Debug\CSharp_Edition.exe
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\bin\Debug\CSharp_Edition.pdb
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\bin\Debug\pl\CSharp_Edition.resources.dll
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\obj\Debug\CSharp_Edition.csprojAssemblyReference.cache
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\obj\Debug\CSharp_Edition.Rewolucjoniści.resources
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\obj\Debug\CSharp_Edition.Properties.Resources.resources
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\obj\Debug\CSharp_Edition.Rewolucjoniści.pl.resources
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\obj\Debug\CSharp_Edition.csproj.GenerateResource.cache
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\obj\Debug\CSharp_Edition.csproj.CoreCompileInputs.cache
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\obj\Debug\pl\CSharp_Edition.resources.dll
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\obj\Debug\CSharp_Edition.exe
+C:\Users\kacpi\source\repos\ParrotTeam\Rewolucja\CSharp_Edition\obj\Debug\CSharp_Edition.pdb

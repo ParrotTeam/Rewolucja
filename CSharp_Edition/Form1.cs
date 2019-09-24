@@ -24,7 +24,7 @@ namespace CSharp_Edition
 
         private void PictureBox1_Click(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
