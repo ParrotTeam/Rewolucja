@@ -16,7 +16,7 @@ namespace CSharp_Edition
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Rewolucjoniści());
+            Application.Run(new ekranPowitalny());
         }
     }
 }

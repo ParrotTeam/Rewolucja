@@ -46,8 +46,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ekranPowitalny.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ekranPowitalny.Designer.cs">
+      <DependentUpon>ekranPowitalny.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuGlowne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuGlowne.Designer.cs">
+      <DependentUpon>menuGlowne.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ekranPowitalny.resx">
+      <DependentUpon>ekranPowitalny.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuGlowne.resx">
+      <DependentUpon>menuGlowne.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
