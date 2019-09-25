@@ -5,6 +5,23 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Edition", "CSharp_Edition.csproj", "{B5995A14-4018-4AF8-B25B-FF25CFC08C05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "forms", "forms", "{C8816ACB-48B5-47CD-8A6C-4947AD5093E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mainMenu", "mainMenu", "{CE69E6AE-AFC1-4E14-B84D-2A2BA93A3531}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Desktop\mainMenu\mainMenu.cs = ..\..\..\..\..\Desktop\mainMenu\mainMenu.cs
+		..\..\..\..\..\Desktop\mainMenu\mainMenu.Designer.cs = ..\..\..\..\..\Desktop\mainMenu\mainMenu.Designer.cs
+		..\..\..\..\..\Desktop\mainMenu\mainMenu.resx = ..\..\..\..\..\Desktop\mainMenu\mainMenu.resx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "titleScreen", "titleScreen", "{2B965A3C-EB8D-46FA-AAC4-D857F0E7C051}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Desktop\titleScreen\titleScreen.cs = ..\..\..\..\..\Desktop\titleScreen\titleScreen.cs
+		..\..\..\..\..\Desktop\titleScreen\titleScreen.Designer.cs = ..\..\..\..\..\Desktop\titleScreen\titleScreen.Designer.cs
+		..\..\..\..\..\Desktop\titleScreen\titleScreen.pl.resx = ..\..\..\..\..\Desktop\titleScreen\titleScreen.pl.resx
+		..\..\..\..\..\Desktop\titleScreen\titleScreen.resx = ..\..\..\..\..\Desktop\titleScreen\titleScreen.resx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +35,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE69E6AE-AFC1-4E14-B84D-2A2BA93A3531} = {C8816ACB-48B5-47CD-8A6C-4947AD5093E2}
+		{2B965A3C-EB8D-46FA-AAC4-D857F0E7C051} = {C8816ACB-48B5-47CD-8A6C-4947AD5093E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C5424CC-F098-4F50-84B8-4768F42B43C3}
